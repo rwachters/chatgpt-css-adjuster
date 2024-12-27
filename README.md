@@ -6,6 +6,12 @@
 - Automatically adjusts CSS to enhance the display on ChatGPT.com.
 - Works exclusively on `chatgpt.com` (safe and site-specific).
 
+## Example Screenshot
+
+Below is an example of how the adjusted layout looks with the extension enabled:
+
+![ChatGPT CSS Adjuster Screenshot](assets/screenshot1.png)
+
 ## Installation
 
 ### From the Microsoft Edge Add-ons Store
@@ -25,4 +31,3 @@ Contributions are welcome! Feel free to open an issue or submit a pull request t
 
 ## License
 This extension is licensed under the MIT License. See the `LICENSE` file for details.
-
