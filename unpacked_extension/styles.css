@@ -1,0 +1,5 @@
+@media (min-width: 1280px) {
+    .xl\:max-w-\[48rem\] {
+        max-width: 70rem !important;
+    }
+}
